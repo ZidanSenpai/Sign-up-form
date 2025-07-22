@@ -13,4 +13,7 @@
 .right-section{
     background: #FAE3C6;
     width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
 }
