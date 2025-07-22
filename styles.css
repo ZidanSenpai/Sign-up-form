@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    font-family: Galindo ;
+}
+.wrapper{
+    display: flex;
+    height: 100vh;
+}
+.left-section{
+    background: #F564A9;
+    width: 50%;
+}
+.right-section{
+    background: #FAE3C6;
+    width: 90%;
+}
