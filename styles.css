@@ -1,6 +1,7 @@
 *{
     margin: 0;
     font-family: Galindo ;
+    color: #533B4D;
 }
 .wrapper{
     display: flex;
@@ -14,6 +15,11 @@
     background: #FAE3C6;
     width: 90%;
     display: flex;
-    align-items: center;
-    justify-content: left;
+    align-items: left;
+    justify-content: center;
+    flex-direction: column;
+}
+.form{
+    display: flex;
+    flex-wrap: wrap;
 }
