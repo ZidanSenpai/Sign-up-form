@@ -84,11 +84,6 @@ label {
     max-width: 250px;
 }
 
-/* Full width for submit and login */
-/* .submit-button,
-.login {
-    flex: 1 1 100%;
-} */
 button#submit {
     background-color: #F564A9;
     color: white;
